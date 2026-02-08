@@ -1,0 +1,7 @@
+{
+  "name": "GT Innovix",
+  "description": "A cutting-edge startup landing page featuring an AI-driven project strategist powered by Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
