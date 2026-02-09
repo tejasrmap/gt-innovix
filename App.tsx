@@ -43,7 +43,7 @@ const App: React.FC = () => {
             <BentoBox className="relative overflow-hidden group border-white/10">
               <span className="mono text-[10px] uppercase tracking-widest text-slate-500">Pipeline Sectors</span>
               <div className="grid grid-cols-2 gap-2 mt-6">
-                {['FinTech', 'Logistics', 'Health', 'IoT'].map(sector => (
+                {['Research', 'Logistics', 'Web-Development', 'IoT'].map(sector => (
                   <div key={sector} className="border border-white/5 bg-white/5 p-2 text-[10px] mono text-center uppercase tracking-tighter hover:bg-cyan-400 hover:text-black transition-all cursor-crosshair">
                     {sector}
                   </div>
