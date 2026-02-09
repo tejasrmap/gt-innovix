@@ -167,8 +167,8 @@ const App: React.FC = () => {
             </div>
             <div className="flex flex-col gap-3">
               <span className="text-white">Roadmap</span>
-              <a href="#" className="hover:text-cyan-400 transition-colors">FinTech</a>
-              <a href="#" className="hover:text-cyan-400 transition-colors">HealthTech</a>
+              <a href="#" className="hover:text-cyan-400 transition-colors">IoT</a>
+              <a href="#" className="hover:text-cyan-400 transition-colors">Research</a>
             </div>
           </div>
         </div>
