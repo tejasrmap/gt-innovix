@@ -15,7 +15,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-6 flex justify-between items-center">
         <div className="flex items-center group cursor-pointer">
           <span className="text-2xl font-black tracking-tighter text-cyan-400 uppercase italic mono mr-1 group-hover:text-white transition-colors">GT</span>
-          <span className="text-2xl font-bold tracking-tighter text-white uppercase italic group-hover:text-cyan-400 transition-colors">Innovix</span>
+          <span className="text-2xl font-bold tracking-tighter text-white uppercase italic group-hover:text-cyan-400 transition-colors">InnoX</span>
         </div>
         
         <div className="hidden md:flex items-center gap-10 text-[13px] font-medium mono uppercase tracking-widest text-slate-400">
