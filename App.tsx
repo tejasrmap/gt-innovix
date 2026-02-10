@@ -30,7 +30,7 @@ const App: React.FC = () => {
               <span className="text-cyan-400">Future.</span>
             </h1>
             <p className="max-w-xl text-slate-400 text-lg md:text-xl leading-relaxed font-light">
-              GT Innovix is currently operating as a premier web development studio. We are strategically positioning ourselves for future multi-sector disruption.
+              GT InnoX is currently operating as a premier web development studio. We are strategically positioning ourselves for future multi-sector disruption.
             </p>
           </div>
 
@@ -88,7 +88,7 @@ const App: React.FC = () => {
             <div className="md:col-span-7 bento-card p-10 rounded-[3rem] border-white/5 bg-gradient-to-br from-slate-900/50 to-transparent">
               <h3 className="text-2xl font-bold mb-6 uppercase italic tracking-tight">Our Origin</h3>
               <p className="text-slate-400 leading-relaxed mb-6">
-                GT Innovix was founded by a collective of software architects and venture builders who realized that the gap between "web applications" and "industrial systems" was closing. 
+                GT InnoX was founded by a collective of software architects and venture builders who realized that the gap between "web applications" and "industrial systems" was closing. 
               </p>
               <p className="text-slate-400 leading-relaxed">
                 We don't just build sites; we engineer high-frequency digital environments. Every line of code written in our studio is a component for a larger, multi-sector machine.
@@ -140,7 +140,7 @@ const App: React.FC = () => {
             Expanding the <span className="text-cyan-400">Matrix.</span>
           </h2>
           <p className="max-w-3xl mx-auto text-slate-500 text-lg leading-relaxed mb-12">
-            GT Innovix is more than a development shop. We are a digital engine designed to penetrate fragmented markets. Starting with web development, we are coding the foundation for a multi-sector future.
+            GT InnoX is more than a development shop. We are a digital engine designed to penetrate fragmented markets. Starting with web development, we are coding the foundation for a multi-sector future.
           </p>
           <div className="flex justify-center gap-12 text-slate-700 mono text-xs uppercase tracking-widest">
             <span>Phase_01: Web</span>
@@ -155,7 +155,7 @@ const App: React.FC = () => {
           <div>
             <div className="flex items-center mb-4">
               <span className="text-2xl font-black tracking-tighter text-cyan-400 uppercase italic mono mr-1">GT</span>
-              <span className="text-2xl font-bold tracking-tighter text-white uppercase italic">Innovix</span>
+              <span className="text-2xl font-bold tracking-tighter text-white uppercase italic">InnoX</span>
             </div>
             <p className="text-slate-600 text-[10px] mono uppercase tracking-widest">Digital Foundry // Multi-Sector Expansion Protocol</p>
           </div>
